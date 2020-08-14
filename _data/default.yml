@@ -1,0 +1,16 @@
+brand:
+  name: "#capiamoibambini"
+menu-string: Menu
+
+nav:
+  - title: Timeline
+    url: '#timeline'
+  - title: Sondaggio
+    url: '#form'
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'

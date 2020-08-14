@@ -1,0 +1,37 @@
+intro:
+  lead-in: 
+  heading: "Capiamo i bambini"
+  btn: Scopri di più
+  
+timeline:
+  heading: Timeline
+  subheading: Una breve cronistoria.
+  timeline:
+    - image: img/about/1.jpg
+      date: 31 gennaio
+      title: Primi casi in Italia
+      text: A Roma, due turisti cinesi di 66 e 67 anni originari della provincia di Hubei risultano positivi per il virus SARS-CoV-2 e sono ricoverati presso l'Istituto Spallanzani.
+    - image: img/about/2.jpg
+      date: 21 febbraio
+      title: I primi focolai
+      text: Primi positivi in Lombardia e Veneto. Vengono individuati i focolai di Codogno (LO) e Vo' (PD).
+    - image: img/about/3.jpg
+      date: 4 marzo
+      title: Chiusura delle scuole
+      text: Con un DPCM vengono sospese le attività didattiche.
+    - image: img/about/4.jpg
+      date: 9 marzo
+      title: Quarantena
+      text: Con un nuovo DPCM le misure per il contenimento del Covid-19 vengono estese a tutto il territorio nazionale.
+    - image: img/about/5.jpg
+      date: 11 marzo
+      title: Pandemia
+      text: L'OMS dichiara la pandemia.
+    - image: img/about/6.jpg
+      date: 4 maggio
+      title: La fase 2
+      text: Ha inizio la cosiddetta fase 2 della quarantena.  
+  end1: Partecipa
+  end2: allo
+  end3: studio
+
